@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hello, and Welcome to my homepage. I am a senior undergraduate, pursuing by Bachelors and Masters (dual-degree) at the Indian Institue of Techonlogy Bombay ([IIT Bombay](http://iitb.ac.in)). I'm an [Electrical Engineering major](http://ee.iitb.ac.in/), with a specialisation in Nanoelectronics. This year, I am working on my Master's thesis, and I will graduate in the following summer. 
+Hello, and Welcome to my homepage. I am a senior undergraduate, pursuing by Bachelors and Masters (dual-degree) at the Indian Institue of Techonlogy Bombay ([IIT Bombay](http://iitb.ac.in)). I'm an [Electrical Engineering major](http://www.ee.iitb.ac.in/), with a specialisation in Nanoelectronics. This year, I am working on my Master's thesis, and I will graduate in the following summer. 
 
 I am passionate about quantum technology, and am excited by the promising prospects it holds for tomorrow :)  I have developed a keen interest in quantum information and condensed matter physics. You can find my work in these areas on the [Research](http://praveen5.github.io/research/) tab. My academic life has been dileneated on the [Resumé](http://praveen5.github.io/resume/) page. 
 
