@@ -14,4 +14,4 @@ I am an ardent follower of the sporting world, with a proclivity for cricket and
 The attenuating borders of the once believed to be antithetical realms of the scientific and spiritual world has a telling effect in the way we think about science! In this regard, I actively participate in [Ekatva Gita](http://songofoneness.com/objective-and-structure/) workshops, organised by [Sri Balagopal Ramachandran](https://www.linkedin.com/in/balagopal-ramachandran-5a42262/), a venerate teacher at the [Oneness University](http://onenessuniversity.org/).  
 
 
-<img src="https://github.com/praveen5/praveen5.github.io/blob/master/me.png" ALIGN = "CENTRE" width="256" title="at Herr Bolzmann's grave, Vienna Central Crematory (Wien Zentralfiredhoff)">
+<img src="/me.png" ALIGN = "CENTRE" width="256" title="at Herr Bolzmann's grave, Vienna Central Crematory (Wien Zentralfiredhoff)">
