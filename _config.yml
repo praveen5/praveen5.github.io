@@ -18,7 +18,7 @@ author: Praveen Sriram
 email: prvn.srm@gmail.com
 description: This is my personal homepage. Will have updates from my life & work, and some fun musings! Stay tuned :) 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4444" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://praveen5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: praveen.sriram
 twitter_username: praveen_sriram  
 github_username:  praveen5
