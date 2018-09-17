@@ -18,9 +18,10 @@ Here's a brief list of appointments --
 In my pursuit to appreciate the beauty of the quantum world, I participated in the following workshops 
 
 
-*  **Undergraduate School on Experimental Quantum Information Processing (USEQIP)**, at the Institute for Quantum Computing, in the University of Waterloo, Canada. This was a 2-week school organised by the faculty at IQC, which introduced us to the theoretical & experimental aspects of Quantum Information Processing. _(Summer 2018)_
+*  <p style="text-align:center;">
+**Undergraduate School on Experimental Quantum Information Processing (USEQIP)**, at the Institute for Quantum Computing, in the University of Waterloo, Canada. This was a 2-week school organised by the faculty at IQC, which introduced us to the theoretical & experimental aspects of Quantum Information Processing. _(Summer 2018)_
 
-  <p style="text-align:center;"> <img src="/iqc.JPG" align="middle" width="512" title="USEQIP"> </p>
+   <img src="/iqc.JPG" align="middle" width="512" title="USEQIP"> </p>
 
 
 *  **Quantum Transport: Atom to Transistor**, a Global Initiative of Academic Networks (GIAN) Course orgained at the Jawaharlal Nehru University, New Delhi. This week-long course by Prof. Supriyo Datta took us through a bottom-up apporach to quantum transport and introduced us to the Non-Equilibrium Green's function formalism (NEGF). _(Winter 2017)_
