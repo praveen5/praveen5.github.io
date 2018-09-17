@@ -34,7 +34,7 @@ We bring a Bayesian approach to the analysis of clocks. Using exponential distri
 ### 3. Spin Qubits in Germanium Hutwires, and Superconducting Coplanar Waveguide Resonators for Control
 _Under the guidance of Prof. Georgios Katsaros at IST Austra_
 <p>
-<img src="https://github.com/praveen5/praveen5.github.io/blob/master/CPW.png.png" ALIGN = "RIGHT" width="256" title="CPW">
+<img src="https://github.com/praveen5/praveen5.github.io/blob/master/CPW.png" ALIGN = "RIGHT" width="256" title="CPW">
 My work involved the SEM imaging and design of contacts on Germanium nanowires grown on monocrystalline Silicon substrates. I worked with low-temperature experiments in characterising the conductance and transfer response of these nanowires in a 4 K Helium setup. I designed Niobium resonators, and performed extensive simulations on Sonnet to extract loaded quality factor and coupling rate and attempted measurement of Nb resonator at 4 K. 
 <!-- <img src="/home/S21.png" ALIGN = "RIGHT" width="256" title="S21"> -->
 </p>
