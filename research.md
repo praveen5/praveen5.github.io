@@ -20,21 +20,21 @@ _This page lists my research projects. For a summary of my academic course proje
 ### 1. Quantum Transport in Superconducting Junctions
 _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at IQC Waterloo and IIT Bombay_
 <p>
-<img src="/TB.png" ALIGN = "RIGHT" width="256" title="NanowireModel">
+<img src="https://github.com/praveen5/praveen5.github.io/blob/master/TB.png" ALIGN = "RIGHT" width="256" title="NanowireModel">
 We employed the Non-Equilibrium Green’s function to simulate a semiconductor InAs nanowire with Niobium superconducting contacts and derived the Andreev Bound State spectrum and current-phase relationship. The three-dimensional nanowire is modelled under the tight-binding approximation, and we include the effect of a vector potential via the Peierls substitution. We are studying the effect of angular momentum sub-band currents in response to an axial magnetic flux. In relation to this, I also conducted a literature review on quantum dot - nanowire architectures for unpaired Majorana fermions.
 </p>
 
 ### 2. A finite resource theory of Quantum Clocks
 _Under the guidance of Prof. Manoj Gopalkrishnan and Prof. Bhaskaran Muralidharan at IIT Bombay_
 <p>
-<img src="/QClock.png" ALIGN = "RIGHT" width="256" title="QuantumClock">
+<img src="https://github.com/praveen5/praveen5.github.io/blob/master/QClock.png" ALIGN = "RIGHT" width="256" title="QuantumClock">
 We bring a Bayesian approach to the analysis of clocks. Using exponential distributions as priors for clocks, we analyze how well one can keep time with a single qubit freely precessing under a magnetic field. We find that, at least with a single qubit, quantum mechanics does not allow exact timekeeping, in contrast to classical mechanics, which does. We find the design of the single-qubit clock that leads to maximum accuracy. Further, we find an energy versus accuracy tradeoff—the energy cost is at least kT times the improvement in accuracy as measured by the entropy reduction in going from the prior distribution to the posterior distribution. We propose a physical realization of the single-qubit clock using charge transport across a capacitively coupled quantum dot.
 </p>
 
 ### 3. Spin Qubits in Germanium Hutwires, and Superconducting Coplanar Waveguide Resonators for Control
 _Under the guidance of Prof. Georgios Katsaros at IST Austra_
 <p>
-<img src="/CPW.png" ALIGN = "RIGHT" width="256" title="CPW">
+<img src="https://github.com/praveen5/praveen5.github.io/blob/master/CPW.png.png" ALIGN = "RIGHT" width="256" title="CPW">
 My work involved the SEM imaging and design of contacts on Germanium nanowires grown on monocrystalline Silicon substrates. I worked with low-temperature experiments in characterising the conductance and transfer response of these nanowires in a 4 K Helium setup. I designed Niobium resonators, and performed extensive simulations on Sonnet to extract loaded quality factor and coupling rate and attempted measurement of Nb resonator at 4 K. 
 <!-- <img src="/home/S21.png" ALIGN = "RIGHT" width="256" title="S21"> -->
 </p>
