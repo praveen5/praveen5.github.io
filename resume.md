@@ -13,7 +13,7 @@ Here's a brief list of appointments --
 *  Undergraduate Research Assistant at the Institute for Quantum Computing **[IQC Waterloo](http://iqc.ca)** in Prof. Jonathan Baugh's Coherent Spintronics Group _(Summer 2018)_
 
 
-*  Summer Intern at the Institute for Science and Technology **[IST Austria](http://ist.at)** in Prof. Georgios Katsros's Nanoelectronics  Group _(Summer 2017)_
+*  Summer Intern at the Institute of Science and Technology **[IST Austria](http://ist.ac.at)** in Prof. Georgios Katsros's Nanoelectronics  Group _(Summer 2017)_
 
 In my pursuit to appreciate the beauty of the quantum world, I participated in the following workshops 
 
