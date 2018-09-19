@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-_This page lists my research projects. For a summary of my academic course projects, please see my [Resumé](http://home.iitb.ac.in/~cv.pdf)._
+_This page lists my research projects. For a summary of my academic course projects, please see my [Resumé](http://home.iitb.ac.in/~praveen5/cv.pdf)._
 
 # Conference Publication
 ---
