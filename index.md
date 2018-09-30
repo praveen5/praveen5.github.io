@@ -11,7 +11,7 @@ I am passionate about quantum technology, and am excited by the promising prospe
 
 I am an ardent follower of the sporting world, with a proclivity for cricket and football. I also enjoy playing classical pieces on the synthesiser. 
 
-The attenuating borders of the once believed to be antithetical realms of the scientific and spiritual world has a telling effect in the way we think about science! In this regard, I actively participate in [Ekatva Gita](http://songofoneness.com/objective-and-structure/) workshops, organised by [Sri Balagopal Ramachandran](https://www.linkedin.com/in/balagopal-ramachandran-5a42262/), a venerate teacher at the [Oneness University](http://onenessuniversity.org/).  
+The attenuating borders of the once believed to be antithetical realms of the scientific and spiritual world has a telling effect in the way we think about science! In this regard, I actively participate in [Ekatva Gita](http://songofoneness.com/objective-and-structure/) workshops, organised by [Sri Balagopal Ramachandran](https://www.linkedin.com/in/balagopal-ramachandran-5a42262/), a venerable teacher at the [Oneness University](http://onenessuniversity.org/).  
 
 
 <img src="/me.png" ALIGN = "CENTRE" width="256" title="at Herr Bolzmann's grave, Vienna Central Crematory (Wien Zentralfiredhoff)">
