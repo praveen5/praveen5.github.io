@@ -13,7 +13,7 @@ _This page lists my research projects. For a summary of my academic course proje
 # Journal Publication
 --- 
 * M. Gopalkrishnan, V. Kandula, **P. Sriram**, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A, 96:032339, Sep 2017 
-[[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),  [[arXiv]](http://arxiv.org/abs/1602.00508)
+[[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),  (_updated & revised_)
 
 ***
 ## Projects
@@ -31,7 +31,7 @@ References
 
 ### 2. A Bayesian View of Quantum Clocks
 _Under the guidance of Prof. Manoj Gopalkrishnan and Prof. Bhaskaran Muralidharan at IIT Bombay_
-Accepted for a talk at [[Q-Turn 2018]](www.qturnworkshop.wixsite.com/2018), at Florianópolis, Brazil
+Accepted for a talk at [Q-Turn 2018](www.qturnworkshop.wixsite.com/2018), at Florianópolis, Brazil
 <p>
 <img src="/QClock.png" ALIGN = "RIGHT" width="256" title="QuantumClock">
 We bring a Bayesian approach to the analysis of clocks. Using exponential distributions as priors for clocks, we analyze how well one can keep time with a single qubit freely precessing under a magnetic field. We find that, at least with a single qubit, quantum mechanics does not allow exact timekeeping, in contrast to classical mechanics, which does. We find the design of the single-qubit clock that leads to maximum accuracy. Further, we find an energy versus accuracy tradeoff—the energy cost is at least kT times the improvement in accuracy as measured by the entropy reduction in going from the prior distribution to the posterior distribution. We propose a physical realization of the single-qubit clock using charge transport across a capacitively coupled quantum dot.
