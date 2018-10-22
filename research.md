@@ -29,8 +29,9 @@ References
 3. K. Gharavi, J. Baugh Phys. Rev. B 91,245436, 30 June 2015
 </p>
 
-### 2. A finite resource theory of Quantum Clocks
+### 2. A Bayesian View of Quantum Clocks
 _Under the guidance of Prof. Manoj Gopalkrishnan and Prof. Bhaskaran Muralidharan at IIT Bombay_
+Accepted for a talk at [[Q-Turn 2018]](www.qturnworkshop.wixsite.com/2018), at Florianópolis, Brazil
 <p>
 <img src="/QClock.png" ALIGN = "RIGHT" width="256" title="QuantumClock">
 We bring a Bayesian approach to the analysis of clocks. Using exponential distributions as priors for clocks, we analyze how well one can keep time with a single qubit freely precessing under a magnetic field. We find that, at least with a single qubit, quantum mechanics does not allow exact timekeeping, in contrast to classical mechanics, which does. We find the design of the single-qubit clock that leads to maximum accuracy. Further, we find an energy versus accuracy tradeoff—the energy cost is at least kT times the improvement in accuracy as measured by the entropy reduction in going from the prior distribution to the posterior distribution. We propose a physical realization of the single-qubit clock using charge transport across a capacitively coupled quantum dot.
