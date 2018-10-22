@@ -17,7 +17,7 @@ _This page lists my research projects. For a summary of my academic course proje
 
 ***
 ## Projects
-### 1. Quantum Transport in Superconducting Junctions
+### 1. Quantum-Transport in Semiconductor Nanowire Josephson Junctions
 _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at IQC Waterloo and IIT Bombay_
 <p>
 <img src="/TB.png" ALIGN = "RIGHT" width="256" title="NanowireModel">
