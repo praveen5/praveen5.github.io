@@ -32,6 +32,7 @@ References
 
 ### 2. A Bayesian View of Quantum Clocks
 _Under the guidance of Prof. Manoj Gopalkrishnan and Prof. Bhaskaran Muralidharan at IIT Bombay_
+
 Accepted for a talk at [Q-Turn 2018](https://qturnworkshop.wixsite.com/2018), at Florianópolis, Brazil
 <p>
 <img src="/QClock.png" ALIGN = "RIGHT" width="256" title="QuantumClock">
