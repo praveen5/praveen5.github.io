@@ -22,12 +22,13 @@ _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at
 <p>
 <img src="/TB.png" ALIGN = "RIGHT" width="256" title="NanowireModel">
 Semiconductor nanowires with superconducting contacts have been an area of significant interest for over a couple of decades. They provide a promising platform for hosting unpaired Majorana fermions and a prospect for realizing a fault-tolerant topological quantum computer. In this work, we employ the Non-Equilibrium Green’s Function (NEGF) Formalism to model quantum transport in normal (N)-superconductor(S) junctions. In particular, we extensively study the N-S junction under a potential bias, reproducing  Blonder-Tinkham-Klapwijk (BTK) ’s results. We go beyond the Andreev approximation limit and delineate the interesting features observed in the conductance and current spectral density outside this approximation. We then analyze Josephson junctions based on semiconductor nanowires and calculate the Andreev bound state spectrum and current-phase relations using NEGF. Recently, [1], and [2] have reported oscillations in the critical supercurrent with an axial magnetic field. This phenomenon arises from the interference of orbital angular momentum modes of the nanowire. We study the effect of disorder on critical current oscillations with an aim to gain a thoroughgoing understanding of the experiments.
+</p>
 
 References
 1. K. Gharavi, J. Baugh arXiv:1405.7455v2
 2. Zuo, et. al. Phys. Rev. Lett. 119, 187704 (2017)
 3. K. Gharavi, J. Baugh Phys. Rev. B 91,245436, 30 June 2015
-</p>
+
 
 ### 2. A Bayesian View of Quantum Clocks
 _Under the guidance of Prof. Manoj Gopalkrishnan and Prof. Bhaskaran Muralidharan at IIT Bombay_
