@@ -17,7 +17,7 @@ _This page lists my research projects. For a summary of my academic course proje
 
 ***
 ## Projects
-### 1. Quantum-Transport in Semiconductor Nanowire Josephson Junctions
+### 1. Quantum Transport in Semiconductor Nanowire Josephson Junctions
 _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at IQC Waterloo and IIT Bombay_
 <p>
 <img src="/TB.png" ALIGN = "RIGHT" width="256" title="NanowireModel">
@@ -39,7 +39,7 @@ Accepted for a talk at [Q-Turn 2018](https://qturnworkshop.wixsite.com/2018), at
 We bring a Bayesian approach to the analysis of clocks. Using exponential distributions as priors for clocks, we analyze how well one can keep time with a single qubit freely precessing under a magnetic field. We find that, at least with a single qubit, quantum mechanics does not allow exact timekeeping, in contrast to classical mechanics, which does. We find the design of the single-qubit clock that leads to maximum accuracy. Further, we find an energy versus accuracy tradeoff—the energy cost is at least kT times the improvement in accuracy as measured by the entropy reduction in going from the prior distribution to the posterior distribution. We propose a physical realization of the single-qubit clock using charge transport across a capacitively coupled quantum dot.
 </p>
 
-### 3. Spin Qubits in Germanium Hutwires, and Superconducting Coplanar Waveguide Resonators for Control
+### 3. Spin Qubits in Germanium Hutwires, and Superconducting CPW Resonators for cQED
 _Under the guidance of Prof. Georgios Katsaros at IST Austra_
 <p>
 <img src="/CPW.png" ALIGN = "RIGHT" width="256" title="CPW">
