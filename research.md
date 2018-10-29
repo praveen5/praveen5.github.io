@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-_This page lists my research projects. For a summary of my academic course projects, please see my [Resumé](http://home.iitb.ac.in/~praveen5/cv.pdf)._
+_This page lists my research projects. For a summary of my academic course projects, please see my [CV](http://home.iitb.ac.in/~praveen5/cv.pdf)._
 
 # Conference Publication
 ---
@@ -27,7 +27,7 @@ Semiconductor nanowires with superconducting contacts have been an area of signi
 References
 1. K. Gharavi, J. Baugh [arXiv:1405.7455v2](https://arxiv.org/abs/1405.7455)
 2. Zuo, et. al. [Phys. Rev. Lett. 119, 187704 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.187704)
-3. K. Gharavi, J. Baugh [Phys. Rev. B 91,245436, 30 June 2015](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.245436)
+3. K. Gharavi, J. Baugh [Phys. Rev. B 91, 245436, 30 June 2015](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.245436)
 
 
 ### 2. A Bayesian View of Quantum Clocks
