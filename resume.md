@@ -33,7 +33,7 @@ I have participated in the following workshops
 
 ---
 
-<img src="LorentzLeiden.jpg" alt="LeidenLorentz" align="middle" width="256" title="Lorentz">
+<img src="LorentzLeiden.jpeg" alt="LeidenLorentz" align="middle" width="256" title="Lorentz">
   
 **Summer School on Modern Physics at All Scales**, at Universitiet Leiden, in The Netherlands. Organised over a period of 10-days by the emminent physics faculty of Leiden, including the likes of Carlo Beenakker and Dirk Bouwmeester, this summer school gave me a holistic exposire to the diverse fields of research in modern physics. _(Summer 2016)_
 
