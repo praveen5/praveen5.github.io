@@ -20,7 +20,7 @@ In my pursuit to appreciate the beauty of the quantum world, I participated in t
 
 
 <p>
-<img src="IQC_logo.png" alt="IQC" style="float:left;width:42px;height:42px;">
+<img src="IQC_logo.png" alt="IQC" style="float:left;width:12px;height:12px;">
   
 **Undergraduate School on Experimental Quantum Information Processing (USEQIP)**, at the Institute for Quantum Computing, in the University of Waterloo, Canada. This was a 2-week school organised by the faculty at IQC, which introduced us to the theoretical & experimental aspects of Quantum Information Processing. _(Summer 2018)_
    </p>
