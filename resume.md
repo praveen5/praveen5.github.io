@@ -27,14 +27,14 @@ In my pursuit to appreciate the beauty of the quantum world, I participated in t
    <img src="/iqc.JPG" align="middle" width="512" title="USEQIP"> 
 
 <p>
-<img src="GIAN_Logo.png" alt="GIANLogo" align="middle" width="256" title="GIAN">
+<img src="GIAN_Logo.jpg" alt="GIANLogo" align="middle" width="256" title="GIAN">
   
 **Quantum Transport: Atom to Transistor**, a Global Initiative of Academic Networks (GIAN) Course orgained at the Jawaharlal Nehru University, New Delhi. This week-long course by Prof. Supriyo Datta took us through a bottom-up apporach to quantum transport and introduced us to the Non-Equilibrium Green's function formalism (NEGF). _(Winter 2016)_
  </p>
  <img src="/GIAN.jpg" align="middle" width="512" title="GIAN"> 
 
 <p>
-<img src="LeidenLogo.png" alt="LeidenLogo" align="middle" width="256" title="Leiden">
+<img src="LeidenLogo.jpg" alt="LeidenLogo" align="middle" width="256" title="Leiden">
   
 **Summer School on Modern Physics at All Scales**, at Universitiet Leiden, in The Netherlands. Organised over a period of 10-days by the emminent physics faculty of Leiden, including the likes of Carlo Beenakker and Dirk Bouwmeester, this summer school gave me a holistic exposire to the diverse fields of research in modern physics. _(Summer 2016)_
 <\p>
