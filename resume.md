@@ -17,7 +17,7 @@ Here's a brief list of appointments --
 
 I have participated in the following workshops 
 
-<img src="IQC_logo.png" alt="IQC" align="middle" width="256" title="IQC">
+<img src="uw_iqc_rgb_logo.jpg" alt="IQC" align="middle" width="256" title="IQC">
   
 **Undergraduate School on Experimental Quantum Information Processing (USEQIP)**, at the Institute for Quantum Computing, in the University of Waterloo, Canada. This was a 2-week school organised by the faculty at IQC, which introduced us to the theoretical & experimental aspects of Quantum Information Processing. _(Summer 2018)_
    
