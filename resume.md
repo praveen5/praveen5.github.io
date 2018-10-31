@@ -33,12 +33,12 @@ I have participated in the following workshops
 
 ---
 
-div class="row">
+<div class="row">
   <div class="column">
-    <img src="LeidenLogo.jpg" alt="Leiden University" style="width:100%">
+    <img src="LeidenLogo.jpg" alt="Leiden University" style="width:50%">
   </div>
   <div class="column">
-    <img src="LorentzCentre.gif" alt="Lorentz" style="width:100%">
+    <img src="LorentzCentre.gif" alt="Lorentz" style="width:50%">
   </div>
 </div>
   
