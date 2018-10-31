@@ -15,6 +15,7 @@ Here's a brief list of appointments --
 
 *  Summer Intern at the Institute of Science and Technology **[IST Austria](http://ist.ac.at)** in Prof. Georgios Katsros's Nanoelectronics  Group _(Summer 2017)_
 
+## Summer Schools and Workshops
 I have participated in the following workshops 
 
 <img src="uw_iqc_rgb_logo.jpg" alt="IQC" align="middle" width="512" title="IQC">
