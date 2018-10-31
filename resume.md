@@ -18,7 +18,7 @@ Here's a brief list of appointments --
 In my pursuit to appreciate the beauty of the quantum world, I participated in the following workshops 
 
 
-* 
+
 <p>
 <img src="IQC_logo.png" alt="IQC" style="float:left;width:42px;height:42px;">
   
