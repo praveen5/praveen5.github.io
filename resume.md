@@ -17,7 +17,7 @@ Here's a brief list of appointments --
 
 I have participated in the following workshops 
 
-<img src="uw_iqc_rgb_logo.jpg" alt="IQC" align="middle" width="256" title="IQC">
+<img src="uw_iqc_rgb_logo.jpg" alt="IQC" align="middle" width="512" title="IQC">
   
 **Undergraduate School on Experimental Quantum Information Processing (USEQIP)**, at the Institute for Quantum Computing, in the University of Waterloo, Canada. This was a 2-week school organised by the faculty at IQC, which introduced us to the theoretical & experimental aspects of Quantum Information Processing. _(Summer 2018)_
    
@@ -33,7 +33,14 @@ I have participated in the following workshops
 
 ---
 
-<img src="LeidenLogo.jpg" alt="LeidenLogo" align="middle" width="256" title="Leiden">
+div class="row">
+  <div class="column">
+    <img src="LeidenLogo.jpg" alt="Leiden University" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="LorentzCentre.gif" alt="Lorentz" style="width:100%">
+  </div>
+</div>
   
 **Summer School on Modern Physics at All Scales**, at Universitiet Leiden, in The Netherlands. Organised over a period of 10-days by the emminent physics faculty of Leiden, including the likes of Carlo Beenakker and Dirk Bouwmeester, this summer school gave me a holistic exposire to the diverse fields of research in modern physics. _(Summer 2016)_
 
