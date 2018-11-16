@@ -18,7 +18,7 @@ Here's a brief list of appointments --
 ## Summer Schools and Workshops
 I have participated in the following workshops 
 
-<img src="uw_iqc_rgb_logo.jpg" alt="IQC" align="middle" width="512" title="IQC">
+<img src="/uw_iqc_rgb_logo.jpg" alt="IQC" align="middle" width="512" title="IQC">
   
 **Undergraduate School on Experimental Quantum Information Processing (USEQIP)**, at the Institute for Quantum Computing, in the University of Waterloo, Canada. This was a 2-week school organised by the faculty at IQC, which introduced us to the theoretical & experimental aspects of Quantum Information Processing. _(Summer 2018)_
    
@@ -26,7 +26,7 @@ I have participated in the following workshops
 
 ---
 
-<img src="GIAN_Logo.jpg" alt="GIANLogo" align="middle" width="256" title="GIAN">
+<img src="/GIAN_Logo.jpg" alt="GIANLogo" align="middle" width="256" title="GIAN">
   
 **Quantum Transport: Atom to Transistor**, a Global Initiative of Academic Networks (GIAN) Course orgained at the Jawaharlal Nehru University, New Delhi. This week-long course by Prof. Supriyo Datta took us through a bottom-up apporach to quantum transport and introduced us to the Non-Equilibrium Green's function formalism (NEGF). _(Winter 2016)_
  
@@ -34,7 +34,7 @@ I have participated in the following workshops
 
 ---
 
-<img src="LorentzLeiden.jpeg" alt="LeidenLorentz" align="middle" width="512" title="Lorentz">
+<img src="/LorentzLeiden.jpeg" alt="LeidenLorentz" align="middle" width="512" title="Lorentz">
   
 **Summer School on Modern Physics at All Scales**, at Universitiet Leiden, in The Netherlands. Organised over a period of 10-days by the emminent physics faculty of Leiden, including the likes of Carlo Beenakker and Dirk Bouwmeester, this summer school gave me a holistic exposire to the diverse fields of research in modern physics. _(Summer 2016)_
 
