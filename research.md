@@ -5,7 +5,7 @@ permalink: /research/
 ---
 _This page lists my research projects. For a summary of my academic course projects, please see my [CV](http://home.iitb.ac.in/~praveen5/cv.pdf)._
 
-# Conference Publication
+# Conference Proceeding
 ---
 * Gopalkrishnan, M., Kandula, V., **Sriram, P.**, Deshpande, A., & Muralidharan, B. (2016) **A Bayesian view of Single-Qubit Clocks, and an Energy versus Accuracy tradeoff**, Proceedings of the 2016 IEEE International Symposium on Information Theory, Barcelona 
 [[ISIT2016]](https://ieeexplore.ieee.org/document/7541697/)
