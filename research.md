@@ -43,10 +43,10 @@ We bring a Bayesian approach to the analysis of clocks. Using exponential distri
 </p>
 
 ### 3. Spin Qubits in Germanium Hutwires, and Superconducting CPW Resonators for cQED
-_Under the guidance of Prof. Georgios Katsaros at IST Austra_
+_Under the guidance of Prof. Georgios Katsaros at IST Austria_
 <p>
 <img src="/CPW.png" ALIGN = "RIGHT" width="256" title="CPW">
-My work involved the SEM imaging and design of contacts on Germanium nanowires grown on monocrystalline Silicon substrates. I worked with low-temperature experiments in characterising the conductance and transfer response of these nanowires in a 4 K Helium setup. I designed Niobium resonators, and performed extensive simulations on Sonnet to extract loaded quality factor and coupling rate and attempted measurement of Nb resonator at 4 K. 
+My work involved the SEM imaging and design of contacts on Germanium nanowires grown on monocrystalline Silicon substrates. I worked with low-temperature experiments in characterising the conductance and transfer response of these nanowires in a 4 K Helium setup. I designed Niobium resonators, and performed extensive simulations on Sonnet to extract loaded quality factor and coupling rate, and measured the spectral response of a Nb resonator at 4 K. 
 <!-- <img src="/home/S21.png" ALIGN = "RIGHT" width="256" title="S21"> -->
 </p>
 <!-- ![alt text](/QClock.png)
