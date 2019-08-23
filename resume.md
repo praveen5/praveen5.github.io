@@ -20,7 +20,7 @@ Here's a brief list  --
 ## Summer Schools and Workshops
 I have participated in the following workshops 
 
-<img src="/ekEs3PE5.jpg" alt="QTurn" align="left" width="128" title="QTurn">
+<img src="/ekEs3pE5.jpg" alt="QTurn" align="left" width="128" title="QTurn">
 **Q-Turn : changing paradigms in quantum science**, at Universidade Federal de Santa Catarina, Florianópolis, Brazil. This workshop brought together leading researchers in quantum information, foundations and resource theory for a week full of insightful talks and discussions in the picturesque city of Florianópolis. Apart from a scientific program, there were also talks and discussions on issues that affect the quantum information community, ranging from diversity and inclusion, health and mental health, to workers' rights.
 
 <img src="/1500x500.jpeg" alt="QTurnGroup" align="middle" width="1024" title="QTurn Group Photo">
