@@ -36,8 +36,7 @@ I have participated in the following workshops
 
 ---
 
-<img src="/GIAN_Logo.jpg" alt="GIANLogo" align="middle" width="256" title="GIAN">
-  
+<img src="/GIAN_Logo.jpg" alt="GIANLogo" align="middle" width="128" title="GIAN">  
 **Quantum Transport: Atom to Transistor**, a Global Initiative of Academic Networks (GIAN) Course orgained at the Jawaharlal Nehru University, New Delhi. This week-long course by Prof. Supriyo Datta took us through a bottom-up apporach to quantum transport and introduced us to the Non-Equilibrium Green's function formalism (NEGF). _(Winter 2016)_
  
  <img src="/GIAN.jpg" align="middle" width="512" title="GIAN"> 
