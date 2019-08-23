@@ -6,8 +6,10 @@ permalink: /resume/
 
 Please find my extended CV [here](http://home.iitb.ac.in/~praveen5/cv.pdf). 
 
-Here's a brief list of appointments --
-*  **[Indian Institute of Technology Bombay](http://iitb.ac.in)** -- Bachelors & Masters of Technology (Dual Degree) in Electrical Engineering with a specialisation in Microelectronics _(Jul 2014 - Jun 2019 (expected))_
+Here's a brief list  --
+*  **[Stanford University](http://stanford.edu)** -- PhD student in Applied Physics _(Sept 2019 - )_
+
+*  **[Indian Institute of Technology Bombay](http://iitb.ac.in)** -- Bachelor of Technology, Master of Technology in Electrical Engineering with a specialisation in Microelectronics _(Jul 2014 - May 2019)_
 
 
 *  Undergraduate Research Assistant at the Institute for Quantum Computing **[IQC Waterloo](http://iqc.ca)** in Prof. Jonathan Baugh's Coherent Spintronics Group _(Summer 2018)_
