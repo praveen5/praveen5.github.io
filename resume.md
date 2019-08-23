@@ -20,9 +20,10 @@ Here's a brief list  --
 ## Summer Schools and Workshops
 I have participated in the following workshops 
 
+<img src="/ekEs3PE5.jpg" alt="QTurn" align="left" width="128" title="QTurn">
 **Q-Turn : changing paradigms in quantum science**, at Universidade Federal de Santa Catarina, Florianópolis, Brazil. This workshop brought together leading researchers in quantum information, foundations and resource theory for a week full of insightful talks and discussions in the picturesque city of Florianópolis. Apart from a scientific program, there were also talks and discussions on issues that affect the quantum information community, ranging from diversity and inclusion, health and mental health, to workers' rights.
 
-<img src="/1500x500.jpeg" alt="QTurnGroup" align="middle" width="512" title="QTurn Group Photo">
+<img src="/1500x500.jpeg" alt="QTurnGroup" align="middle" width="1024" title="QTurn Group Photo">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/praveen_sriram?ref_src=twsrc%5Etfw">@praveen_sriram</a> starts the afternoon session of <a href="https://twitter.com/hashtag/QTURN18?src=hash&amp;ref_src=twsrc%5Etfw">#QTURN18</a> with A Bayesian View on Quantum Clocks<a href="https://t.co/9wshfPHH17">https://t.co/9wshfPHH17</a><a href="https://twitter.com/hashtag/LTQI?src=hash&amp;ref_src=twsrc%5Etfw">#LTQI</a> <a href="https://t.co/UlqYMnIHaa">pic.twitter.com/UlqYMnIHaa</a></p>&mdash; Q-Turn Workshop (@QTurnWorkshop) <a href="https://twitter.com/QTurnWorkshop/status/1068187402269851648?ref_src=twsrc%5Etfw">November 29, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
