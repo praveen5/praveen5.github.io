@@ -53,7 +53,8 @@ I have participated in the following workshops
 
 ### MOOC
 
-In my freshman year I worked on MIT's intermediate-level Quantum Physcis course - [_Mastering Quantum Mechanics_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiX46u7ocHdAhUIfSsKHTclBpYQFjABegQICRAB&url=https%3A%2F%2Fcourses.edx.org%2Fcourses%2FMITx%2F8.05x%2F1T2015%2Finfo&usg=AOvVaw00lP9T-h6dfw-zltFBwCAa) on [edX](http://edx.org) and earned this [certificate](https://s3.amazonaws.com/verify.edx.org/downloads/6da8ceac9e7f4d25b6bcf0d761798975/Certificate.pdf) as a verified student. 
+<img src="/MITx.png" alt="MITx" align="left" width="128" title="MITx">
+In my freshman year I took MIT's intermediate-level Quantum Physcis course on edX - [_Mastering Quantum Mechanics_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiX46u7ocHdAhUIfSsKHTclBpYQFjABegQICRAB&url=https%3A%2F%2Fcourses.edx.org%2Fcourses%2FMITx%2F8.05x%2F1T2015%2Finfo&usg=AOvVaw00lP9T-h6dfw-zltFBwCAa) on [edX](http://edx.org) and earned this [certificate](https://s3.amazonaws.com/verify.edx.org/downloads/6da8ceac9e7f4d25b6bcf0d761798975/Certificate.pdf) as a verified student. 
 
 <!-- You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
