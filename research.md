@@ -5,19 +5,19 @@ permalink: /research/
 ---
 _This page lists my research projects. For a summary of my academic course projects, please see my [CV](http://home.iitb.ac.in/~praveen5/cv.pdf)._
 
+# arXiv Preprints & Publications
+--- 
+* **P. Sriram**, S. S. Kalantre, K. Gharavi, J. Baugh, and B. Muralidharan. **Supercurrent Interference in Semiconductor Nanowire Josephson junctions**. Phys. Rev. B, Phys. Rev. B **100**, 155431, Oct 2019
+[[Phys.Rev.B]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.155431),  	
+[[arXiv:1902.10947]](https://arxiv.org/abs/1902.10947)
+
+* M. Gopalkrishnan, V. Kandula, **P. Sriram**, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A, **96**, 032339, Sept 2017 
+[[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),  (_updated & revised_)
+
 # Conference Proceedings
 ---
 * Gopalkrishnan, M., Kandula, V., **Sriram, P.**, Deshpande, A., & Muralidharan, B. (2016) **A Bayesian view of Single-Qubit Clocks, and an Energy versus Accuracy tradeoff**, Proceedings of the 2016 IEEE International Symposium on Information Theory, Barcelona 
 [[ISIT2016]](https://ieeexplore.ieee.org/document/7541697/)
-
-# arXiv Preprints & Publications
---- 
-* **P. Sriram**, S. S. Kalantre, K. Gharavi, J. Baugh, and B. Muralidharan. **Supercurrent Interference in Semiconductor Nanowire Josephson junctions**. 	
-[[arXiv:1902.10947]](https://arxiv.org/abs/1902.10947),  (_accepted for publication in Physical Review B_)
-
-* M. Gopalkrishnan, V. Kandula, **P. Sriram**, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A, 96:032339, Sep 2017 
-[[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),  (_updated & revised_)
-
 ***
 ## Projects
 ### 1. Supercurrent Interference in Semiconductor Nanowire Josephson junctions
