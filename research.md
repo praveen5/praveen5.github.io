@@ -18,6 +18,7 @@ _This page lists my research projects. For a summary of my academic course proje
 ---
 * Gopalkrishnan, M., Kandula, V., **Sriram, P.**, Deshpande, A., & Muralidharan, B. (2016) **A Bayesian view of Single-Qubit Clocks, and an Energy versus Accuracy tradeoff**, Proceedings of the 2016 IEEE International Symposium on Information Theory, Barcelona 
 [[ISIT2016]](https://ieeexplore.ieee.org/document/7541697/)
+
 ***
 ## Projects
 ### 1. Supercurrent Interference in Semiconductor Nanowire Josephson junctions
