@@ -11,7 +11,7 @@ _This page lists my research projects. For a summary of my academic course proje
 [[Phys.Rev.B]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.155431),  	
 [[arXiv:1902.10947]](https://arxiv.org/abs/1902.10947)
 
-* M. Gopalkrishnan, V. Kandula, **P. Sriram**, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A, **96**, 032339, Sept 2017 
+* M. Gopalkrishnan, V. Kandula, **P. Sriram**, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A **96**, 032339, Sept 2017 
 [[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),  (_updated & revised_)
 
 # Conference Proceedings
