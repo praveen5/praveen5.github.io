@@ -5,7 +5,7 @@ permalink: /research/
 ---
 _This page lists my research projects. For a summary of my academic course projects, please see my [CV](http://home.iitb.ac.in/~praveen5/cv.pdf)._
 
-# arXiv Preprints & Publications
+# Publications
 --- 
 * **P. Sriram**, S. S. Kalantre, K. Gharavi, J. Baugh, and B. Muralidharan. **Supercurrent Interference in Semiconductor Nanowire Josephson junctions**. Phys. Rev. B, Phys. Rev. B **100**, 155431, Oct 2019
 [[Phys.Rev.B]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.155431),  	
