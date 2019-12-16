@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hello, and welcome to my homepage. I'm a PhD student in [Applied Physics](http://appliedphysics.stanford.edu) at [Stanford University](http://stanford.edu). This quarter, I'm working as a research assistant in Prof. David Goldhaber-Gordon's [group](http://ggg.stanford.edu) at the Geballe Laboratory of Advanced Materials ([GLAM](http://glam.stanford.edu)). In 2019, I graduated with a Bachelors and Masters in [Electrical Engineering](http://www.ee.iitb.ac.in/), specializing in Nanoelectronics, from the Indian Institue of Techonlogy Bombay ([IIT Bombay](http://iitb.ac.in)). I worked on my Master's thesis in Prof. Bhaskaran Muralidharan's [Quantum Transport group](http://www.ee.iitb.ac.in/bmwebpage).  
+Hello, and welcome to my homepage. I'm a PhD student in [Applied Physics](http://appliedphysics.stanford.edu) at [Stanford University](http://stanford.edu). I work in Prof. David Goldhaber-Gordon's [group](http://ggg.stanford.edu) at the Geballe Laboratory of Advanced Materials ([GLAM](http://glam.stanford.edu)). In 2019, I graduated with a Bachelors and Masters in [Electrical Engineering](http://www.ee.iitb.ac.in/), specializing in Nanoelectronics, from the Indian Institue of Techonlogy Bombay ([IIT Bombay](http://iitb.ac.in)). I worked on my Master's thesis in Prof. Bhaskaran Muralidharan's [Quantum Transport group](http://www.ee.iitb.ac.in/bmwebpage).  
 
 I am passionate about quantum technology, and excited by the promising prospects it holds for tomorrow :)  I have developed a keen interest in quantum information and condensed matter physics. You can find my work in these areas on the [Research](http://praveen5.github.io/research/) tab. My academic life has been delineated on my [CV](http://praveen5.github.io/resume/) page. 
 
