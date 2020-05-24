@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /resume/
 ---
 
-Please find my extended CV [here](~/cv.pdf). 
+Please find my extended CV [here](cv.pdf). 
 
 Here's a brief list  --
 *  **[Stanford University](http://stanford.edu)** -- PhD student in Applied Physics _(Sept 2019 - )_
