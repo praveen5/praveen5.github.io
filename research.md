@@ -40,7 +40,7 @@ _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at
 
 #### Presented at the APS March Meeting 2019. [Abstract](http://meetings.aps.org/Meeting/MAR19/Session/S05.9)
 <p>
-<img src="/Fig1AthickNb.jpeg" ALIGN = "RIGHT" width="256" title="NanowireModel">
+<img src="/Fig1AthickNb.jpeg" ALIGN = "RIGHT" width="256" title="NanowireModel"><br>
  
 <img src="/dephasing_disorder.png" ALIGN = "RIGHT" width="256" title="CriticalCurrentOscillations">
  
