@@ -29,9 +29,9 @@ Hybrid metal-semiconductor two-dimensional systems are an attractive platform fo
 </p>
 
 References
-[1] Z. Iftikhar, et al., Nature 526, 233–236 (2015)
-[2] Z. Iftikhar, et al., Science 360, 1315–1320 (2018)
-[3] A. Fornieri, et al., Nature 569, 89–92 (2019)
+1. Z. Iftikhar, et al., [Nature 526, 233–236 (2015)](https://dx.doi.org/10.1038/nature15384)
+2. Z. Iftikhar, et al., [Science 360, 1315–1320 (2018)](https://science.sciencemag.org/content/360/6395/1315)
+3. A. Fornieri, et al., [Nature 569, 89–92 (2019)](https://www.nature.com/articles/s41586-019-1068-8)
 
 ## Previous work
 
