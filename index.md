@@ -9,7 +9,7 @@ Hello, and welcome to my homepage. I'm a PhD student in [Applied Physics](http:/
 
 I am passionate about quantum technology, and excited by the promising prospects it holds for tomorrow :)  I have developed a keen interest in quantum information and condensed matter physics. You can find my work in these areas on the [Research](http://praveen5.github.io/research/) tab. My academic life has been delineated on my [CV](http://praveen5.github.io/resume/) page. 
 
-I am an ardent follower of the sporting world, with a proclivity for cricket and football (soccer). I also enjoy playing classical pieces on the synthesiser. 
+I am an ardent follower of the sporting world, with a proclivity for cricket and football (soccer). I also enjoy playing the piano. 
 
 The attenuating borders of the once believed to be antithetical realms of the scientific and spiritual world has a telling effect in the way we think about the world around us. In this regard, I actively participate in [Ekatva Gita](https://twitter.com/ekatvagita) workshops, organised by [Sri Balagopal Ramachandran](https://www.linkedin.com/in/balagopal-ramachandran-5a42262/), a venerable teacher at the [Oneness University](http://www.sri-ammabhagavan.org).  
 
