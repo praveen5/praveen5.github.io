@@ -20,7 +20,21 @@ _This page lists my research projects. For a summary of my academic course proje
 [[ISIT2016]](https://ieeexplore.ieee.org/document/7541697/)
 
 ***
-## Projects
+## Research
+
+### Exotic Kondo effects in InAs based heterostructures, towards quantum simulation of non-Fermi liquid physics
+<p>
+My research is focussed on developing hybrid InAs-based analog quantum simulators for probing novel phase transitions based on charge Kondo effects.
+Hybrid metal-semiconductor two-dimensional systems are an attractive platform for exploring correlated electron-electron interactions. Flexible nanopatterning allows design of structures to emulate particular Hamiltonians with electrostatically tunable parameters. Frédéric Pierre recently demonstrated a quantum phase transition based on a multichannel charge Kondo effect[1,2] in a GaAs heterostructure with an annealed metal island. InAs may offer significant advantages: pinning of the surface Fermi level in the conduction band allows for direct electrical contact to metals. Small metallic islands with large charging energies may allow building on earlier charge Kondo work without requiring as low electron temperatures. Furthermore, pristine interfaces with epitaxially grown superconducting Aluminum offers new avenues for studying strongly correlated systems[3]. I have been working towards charge Kondo devices on InAs 2DEGs as a quantum simulation platform of non Fermi-liquid phases.
+</p>
+
+References
+[1] Z. Iftikhar, et al., Nature 526, 233–236 (2015)
+[2] Z. Iftikhar, et al., Science 360, 1315–1320 (2018)
+[3] A. Fornieri, et al., Nature 569, 89–92 (2019)
+
+## Previous work
+
 ### 1. Supercurrent Interference in Semiconductor Nanowire Josephson junctions
 _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at IQC Waterloo and IIT Bombay_
 
