@@ -41,7 +41,8 @@ _Under the guidance of Prof. Bhaskaran Muralidharan, and Prof. Jonathan Baugh at
 #### Presented at the APS March Meeting 2019. [Abstract](http://meetings.aps.org/Meeting/MAR19/Session/S05.9)
 <p>
 <img src="/Fig1AthickNb.jpeg" ALIGN = "RIGHT" width="256" title="NanowireModel">
-
+<img src="/Fig1AthickNb.jpeg" ALIGN = "RIGHT" width="256" title="NanowireModel">
+ 
 Semiconductor-superconductor hybrid systems provide a promising platform for hosting unpaired Majorana fermions towards the realisation of fault-tolerant topological quantum computing. In this study, we employ the Keldysh Non-Equilibrium Green’s Function (NEGF) Formalism to model quantum transport in normal-superconductor junctions. We analyse semiconductor nanowire Josephson junctions (InAs/Nb) using a three-dimensional discrete lattice model described by the Bogolubov-deGennes Hamiltonian in the tight-binding approximation, and compute the Andreev bound state spectrum and current-phase relations. We go beyond the Andreev approximation limit and investigate the interesting features observed in the conductance and current spectral density outside this limit. Recent experiments [1] and [2] reveal critical current oscillations in these devices, and our simulations confirm these to be an interference effect of the transverse subbands in the nanowire. We add disorder to model coherent scattering and study its effect on the critical current oscillations, with an aim to gain a thorough understanding of the experiments.
 </p>
 
