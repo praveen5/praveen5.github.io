@@ -7,16 +7,29 @@ _This page lists my research projects. For a summary of my academic course proje
 
 # Publications
 --- 
-* **P. Sriram**, S. S. Kalantre, K. Gharavi, J. Baugh, and B. Muralidharan. **Supercurrent Interference in Semiconductor Nanowire Josephson junctions**. Phys. Rev. B, Phys. Rev. B **100**, 155431, Oct 2019
+* C.L. Hsueh\*, <ins>P. Sriram\*</ins>, T. Wang, C. Thomas, G. Gardner, M. A. Kastner, M. J. Manfra, D. Goldhaber-Gordon. **Clean quantum point contacts in an InAs quantum well grown on a lattice-mismatched InP substrate**. Phys. Rev. B **105**, 195303 (2022)
+[[Phys.Rev.B]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.195303),  	
+[[arXiv:2202.05829]](https://arxiv.org/abs/2202.05829)
+
+* C. Duse, <ins>P. Sriram</ins>, K. Gharavi, J. Baugh, B. Muralidharan. **Role of dephasing on the conductance signatures of Majorana zero modes**. J. Phys.: Condens. Matter **33** 365301 (2021)
+[[J. Phys.: Condens. Matter]](https://iopscience.iop.org/article/10.1088/1361-648X/ac0d16/meta),  	
+[[arXiv:2103.08857]](https://arxiv.org/abs/2103.08857)
+
+* <ins>P. Sriram</ins>, S. S. Kalantre, K. Gharavi, J. Baugh, and B. Muralidharan. **Supercurrent Interference in Semiconductor Nanowire Josephson junctions**. Phys. Rev. B, Phys. Rev. B **100**, 155431, Oct 2019
 [[Phys.Rev.B]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.155431),  	
 [[arXiv:1902.10947]](https://arxiv.org/abs/1902.10947)
 
-* M. Gopalkrishnan, V. Kandula, **P. Sriram**, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A **96**, 032339, Sept 2017 
-[[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),  (_updated & revised_)
+* M. Gopalkrishnan, V. Kandula, <ins>P. Sriram</ins>, A. Deshpande, and B. Muralidharan. **Bayesian view of single-qubit clocks, and an energy versus accuracy tradeoff**. Phys. Rev. A **96**, 032339, Sept 2017 
+[[Phys.Rev.A]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032339),
+[[arXiv:1602.00508]](https://arxiv.org/abs/1602.00508)
 
 # Conference Proceedings
 ---
-* Gopalkrishnan, M., Kandula, V., **Sriram, P.**, Deshpande, A., & Muralidharan, B. (2016) **A Bayesian view of Single-Qubit Clocks, and an Energy versus Accuracy tradeoff**, Proceedings of the 2016 IEEE International Symposium on Information Theory, Barcelona 
+* <ins>P. Sriram</ins>, C.L. Hsueh, T. Wang, C. Thomas, G. Gardner, M.A. Kastner, M.J. Manfra and D. Goldhaber-Gordon. **Towards tunable quantum criticality in InAs quantum wells: hybrid metal-semiconductor quantum dots for charge Kondo effects**. APS March Meeting 2022, Chicago IL. [[Abstract]](https://meetings.aps.org/Meeting/MAR22/Session/N57.11)
+
+* <ins>P. Sriram</ins>, S.S. Kalantra, K. Gharavi, J. Baugh, and B. Muralidharan. **Quantum-Transport in Semicon- ductor Nanowire Josephson Junctions.** APS March Meeting 2019, Boston MA [[Abstract]](https://meetings.aps.org/Meeting/MAR19/Session/S05.9)
+
+* M. Gopalkrishnan, V. Kandula, <ins>P. Sriram</ins>, A. Deshpande, and B. Muralidharan. **A Bayesian view of Single-Qubit Clocks, and an Energy versus Accuracy tradeoff**, Proceedings of the 2016 IEEE International Symposium on Information Theory, Barcelona, Spain 
 [[ISIT2016]](https://ieeexplore.ieee.org/document/7541697/)
 
 ***
