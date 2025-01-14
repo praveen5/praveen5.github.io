@@ -11,7 +11,7 @@ I am passionate about quantum technology and excited by the prospects it holds f
 
 I enjoy sports, and particularly follow cricket and football (soccer). I also enjoy playing the piano and I'm part of the Stanford New Ensemble. I've been learning the culinary secrets of haute cuisine and enjoy experiments in the kitchen ;) 
 
-The blurring borders of the scientific and spiritual world has caught my interest. I actively participate in [Ekatva Gita](https://twitter.com/ekatvagita) workshops, organized by [Sri Balagopal Ramachandran](https://www.linkedin.com/in/balagopal-ramachandran-5a42262/), a venerable teacher at the [Oneness University](http://www.sri-ammabhagavan.org).  
+[//]: <The blurring borders of the scientific and spiritual world has caught my interest. I actively participate in [Ekatva Gita](https://twitter.com/ekatvagita) workshops, organized by [Sri Balagopal Ramachandran](https://www.linkedin.com/in/balagopal-ramachandran-5a42262/), a venerable teacher at the [Oneness University](http://www.sri-ammabhagavan.org).>  
 
 
 <img src="/IMG_7902.jpeg" ALIGN = "CENTRE" width="256" title="at Herr Bolzmann's grave, Vienna Central Crematory (Wien Zentralfiredhoff)">
